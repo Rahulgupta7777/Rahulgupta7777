@@ -33,12 +33,16 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Rahulgupta7777&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
 </div>
+
+[![An image of @Rahulgupta7777's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Rahulgupta7777)](https://www.holopin.io/@Rahulgupta7777)
+
 🌐 Activity Graph  
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rahulgupta7777&bg_color=0d1117&color=53f547&line=65f207&point=2c42ed&area=true&hide_border=true)](https://github.com/Rahulgupta7777github-readme-activity-graph)
 
-[![An image of @Rahulgupta7777's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Rahulgupta7777)](https://www.holopin.io/@Rahulgupta7777)
+🏆 GitHub Trophies
 
+![GitHub trophy](https://github-profile-trophy.vercel.app/?username=Rahulgupta7777-143&theme=darkhub)
 
 <!---
 Rahulgupta7777/Rahulgupta7777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
