@@ -42,7 +42,7 @@
 
 🏆 GitHub Trophies
 
-![GitHub trophy](https://github-profile-trophy.vercel.app/?username=Rahulgupta7777-143&theme=darkhub)
+![GitHub trophy](https://github-profile-trophy.vercel.app/?username=CodeMaverick-143&theme=darkhub)
 
 <!---
 Rahulgupta7777/Rahulgupta7777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
