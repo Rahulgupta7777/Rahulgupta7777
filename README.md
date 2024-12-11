@@ -35,7 +35,7 @@
 </div>
 🌐 Activity Graph  
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ManmathX&bg_color=0d1117&color=53f547&line=65f207&point=2c42ed&area=true&hide_border=true)](https://github.com/Rahulgupta7777github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rahulgupta7777&bg_color=0d1117&color=53f547&line=65f207&point=2c42ed&area=true&hide_border=true)](https://github.com/Rahulgupta7777github-readme-activity-graph)
 
 [![An image of @Rahulgupta7777's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Rahulgupta7777)](https://www.holopin.io/@Rahulgupta7777)
 
