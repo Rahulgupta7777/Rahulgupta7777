@@ -32,6 +32,7 @@
 <h3 align="left">:fire: My Stats:</h3>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Rahulgupta7777&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulgupta7777&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </div>
 
 [![An image of @Rahulgupta7777's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Rahulgupta7777)](https://www.holopin.io/@Rahulgupta7777)
