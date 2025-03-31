@@ -1,4 +1,4 @@
-Alright, let's refine and ensure that all the links are correct, and make your profile more attractive:
+
 
 ---
 
