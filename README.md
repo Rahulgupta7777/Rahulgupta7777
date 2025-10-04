@@ -1,61 +1,104 @@
+<!-- Professional Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hey,+I'm+Rahul+Gupta;Full-Stack+Developer+|+Open-Source+Contributor;Building+Ideas+That+Matter" alt="Typing SVG" />
+</p>
 
+<h1 align="center">Rahul Gupta</h1>
+<h3 align="center">Full-Stack Developer focused on solving real-world challenges through scalable software solutions.</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rahulgupta7777&label=Profile+Views&color=2F81F7&style=flat" alt="Profile views" />
+</p>
 
 ---
 
-<h1 align="center">Hi :wave:, I'm Rahul Gupta</h1>
-<h3 align="center">A passionate developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://github.com/Rahulgupta7777" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+### Connect with Me
+<p align="center">
+  <a href="https://github.com/Rahulgupta7777" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-<a href="https://linkedin.com/in/rahul-gupta-992259326" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Rahulgupta7777&label=Profile%20views&color=0e75b6&style=flat" alt="Rahulgupta7777" />
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <a href="https://linkedin.com/in/rahul-gupta-992259326" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  <a href="https://twitter.com/RahulGupta68978" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <a href="https://www.instagram.com/solo_monarch.1w/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahulgupta7777&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rahulgupta7777&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages graph" />
-</div>
-<br>
-<h3 align="left">:fire: My Stats:</h3>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Rahulgupta7777&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
-</div>
-
-[![An image of @Rahulgupta7777's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Rahulgupta7777)](https://www.holopin.io/@Rahulgupta7777)
-
-### 🌐 Activity Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rahulgupta7777&bg_color=0d1117&color=53f547&line=65f207&point=2c42ed&area=true&hide_border=true)](https://github.com/Rahulgupta7777/github-readme-activity-graph)
-
-### 🏆 GitHub Trophies
-
-![GitHub trophy](https://github-profile-trophy.vercel.app/?username=Rahulgupta7777&theme=darkhub)
 
 ---
 
-Feel free to let me know if there's anything else you'd like to add or modify!
+### About Me
+- Currently working on **open-source** and **personal projects**
+- Learning **React.js**, **Node.js**, and **microservice architecture**
+- Interested in **web application performance**, **data-driven systems**, and **clean code**
+- Ask me about **JavaScript**, **Python**, or **system design**
+- Contributor in **Hacktoberfest 2024 & 2025**
+
+---
+
+### Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,figma,git,github,mysql,vscode" alt="Skills"/>
+</p>
+
+---
+
+### GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahulgupta7777&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rahulgupta7777&layout=compact&theme=transparent&hide_border=true" height="165" alt="Languages"/>
+</p>
+
+---
+
+### Contribution Activity
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rahulgupta7777&theme=github-dark-blue&hide_border=true" height="220" alt="Streak Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahulgupta7777&bg_color=0d1117&color=2F81F7&line=2F81F7&point=58A6FF&area=true&hide_border=true" alt="Activity Graph"/>
+</p>
+
+---
+
+### Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rahulgupta7777&theme=github_dark&no-frame=true&row=1&margin-w=15" alt="GitHub Trophies"/>
+</p>
+
+---
+
+### Holopin Open Source Board
+<p align="center">
+  <a href="https://holopin.io/@rahulgupta7777" target="_blank">
+    <img src="https://holopin.me/rahulgupta7777" alt="Rahul Gupta's Holopin Badge Board (includes Hacktoberfest 2024 & 2025)" width="800"/>
+  </a>
+</p>
+
+---
+
+### Current Focus
+- Building scalable apps using **Next.js** and **Fastify**
+- Optimizing data layers with **Prisma ORM + MySQL**
+- Implementing **OAuth 2.0 / JWT authentication**
+- Exploring **AI-powered web systems**
+
+---
+
+### Contact
+📧 **Email:** [Rahulgupta193246@gmail.com](mailto:Rahulgupta193246@gmail.com)  
+💻 **Portfolio:** *Coming Soon*
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1000&color=2F81F7&center=true&vCenter=true&width=450&lines=Thanks+for+visiting!;Let's+build+something+amazing!" alt="Typing SVG"/>
+</p>
+
+<p align="center">
+  Learning to solve real-world challenges.
+</p>
