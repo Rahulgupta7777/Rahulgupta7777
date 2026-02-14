@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Rahul Gupta</h1>
-<h3 align="center">Learning Full-Stack Development focusing on solving real-world challenges through scalable software solutions .</h3>
+<h3 align="center"> AI & ML and Full Stack Developer solving real world life challenges</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rahulgupta7777&label=Profile+Views&color=2F81F7&style=flat" alt="Profile views" />
