@@ -23,7 +23,7 @@
   <a href="https://twitter.com/RahulGupta68978" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
   </a>
-  <a href="https://www.instagram.com/monarch_._._01" target="_blank">
+  <a href="https://www.instagram.com/monarch._._01/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
