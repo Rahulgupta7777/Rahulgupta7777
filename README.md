@@ -30,14 +30,7 @@
 
 ---
 
-### About Me
-- Currently working on **open-source** and **personal projects**
-- Learning **React.js**, **Node.js**, and **microservice architecture**
-- Interested in **web application performance**, **data-driven systems**, and **clean code**
-- Ask me about **JavaScript**, **Python**, or **system design**
-- Contributor in **Hacktoberfest 2024 & 2025**
 
----
 
 ### Languages & Tools
 <p align="center">
@@ -53,23 +46,6 @@
 </p>
 
 ---
-
-### Contribution Activity
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rahulgupta7777&theme=github-dark-blue&hide_border=true" height="220" alt="Streak Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahulgupta7777&bg_color=0d1117&color=2F81F7&line=2F81F7&point=58A6FF&area=true&hide_border=true" alt="Activity Graph"/>
-</p>
-
----
-
-### Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rahulgupta7777&theme=github_dark&no-frame=true&row=1&margin-w=15" alt="GitHub Trophies"/>
-</p>
-
 ---
 
 ### Holopin Open Source Board
@@ -78,14 +54,6 @@
     <img src="https://holopin.me/rahulgupta7777" alt="Rahul Gupta's Holopin Badge Board (includes Hacktoberfest 2024 & 2025)" width="800"/>
   </a>
 </p>
-
----
-
-### Current Focus
-- Building scalable apps using **Next.js** and **Fastify**
-- Optimizing data layers with **Prisma ORM + MySQL**
-- Implementing **OAuth 2.0 / JWT authentication**
-- Exploring **AI-powered web systems**
 
 ---
 
