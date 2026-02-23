@@ -37,15 +37,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,figma,git,github,mysql,vscode" alt="Skills"/>
 </p>
 
----
 
-### GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahulgupta7777&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rahulgupta7777&layout=compact&theme=transparent&hide_border=true" height="165" alt="Languages"/>
-</p>
-
----
 ---
 
 ### Holopin Open Source Board
