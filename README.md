@@ -49,6 +49,13 @@
 
 ---
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Rahulgupta7777" alt="GitHub Streak"/>
+  </a>
+</p>
+
+
 ### Contact
 📧 **Email:** [Rahulgupta193246@gmail.com](mailto:Rahulgupta193246@gmail.com)  
 
