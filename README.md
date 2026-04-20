@@ -4,7 +4,6 @@
 </p>
 
 <h1 align="center">Rahul Gupta</h1>
-<h3 align="center"> AI & ML Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rahulgupta7777&label=Profile+Views&color=2F81F7&style=flat" alt="Profile views" />
