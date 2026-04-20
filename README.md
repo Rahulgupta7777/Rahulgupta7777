@@ -54,11 +54,6 @@
 📧 **Email:** [Rahulgupta193246@gmail.com](mailto:Rahulgupta193246@gmail.com)  
 
 
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1000&color=2F81F7&center=true&vCenter=true&width=450&lines=Thanks+for+visiting!;Let's+build+something+amazing!" alt="Typing SVG"/>
-
 
 </p>
 
