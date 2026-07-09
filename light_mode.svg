@@ -1,73 +1,127 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="965" height="670" viewBox="0 0 965 670" font-size="14px">
+<svg xmlns="http://www.w3.org/2000/svg" width="1025" height="836" viewBox="0 0 1025 836">
 <title>Rahul Gupta | GitHub Profile</title>
 <style>
-text{font-family:'Consolas','Menlo','DejaVu Sans Mono',monospace;font-size:14px;}
-.x{fill:#57606a} .k{fill:#bc4c00} .d{fill:#afb8c1} .v{fill:#24292f}
+text{font-family:'Consolas','Menlo','DejaVu Sans Mono',monospace;font-size:13px;}
+.x{font-size:7px;fill:#57606a} .k{fill:#bc4c00} .d{fill:#afb8c1} .v{fill:#24292f}
 .n{fill:#bc4c00;font-weight:bold} .h{fill:#bc4c00;font-weight:bold}
 .s{fill:#24292f;font-weight:bold} .a{fill:#1a7f37} .e{fill:#cf222e}
 </style>
-<rect x="0.5" y="0.5" width="964" height="669" rx="6" fill="#ffffff" stroke="#d0d7de"/>
-<text x="25" y="40" xml:space="preserve" class="x">     :::: :-+o+a+++a+aaaaa+++=::::::::::::</text>
-<text x="25" y="56" xml:space="preserve" class="x">       ::-M&amp;@@@&amp;M+aaaaaaaa+aa+-:::::::    </text>
-<text x="25" y="72" xml:space="preserve" class="x">       :-+@@@@@@@+--::::----~~~-----::    </text>
-<text x="25" y="88" xml:space="preserve" class="x">a=---:---*@@@@@&amp;@*              :::    :--</text>
-<text x="25" y="104" xml:space="preserve" class="x">-----~-: -o%@&amp;&amp;#*:                ::::: -:</text>
-<text x="25" y="120" xml:space="preserve" class="x">~~-::     +#%%#Wa-     :               :--</text>
-<text x="25" y="136" xml:space="preserve" class="x">          +==~=-:: =M*=:                  </text>
-<text x="25" y="152" xml:space="preserve" class="x">          ~   ~   -~&amp;@M                   </text>
-<text x="25" y="168" xml:space="preserve" class="x">     -~   ~   ~   - W@#-         -        </text>
-<text x="25" y="184" xml:space="preserve" class="x">    ~-~-  ~   ~   - *@&amp;~                  </text>
-<text x="25" y="200" xml:space="preserve" class="x">    -=~-  ~:  ~:  --*@@W:-                </text>
-<text x="25" y="216" xml:space="preserve" class="x">    =oo~: --  ~-  ~o%@@@%#~           -:  </text>
-<text x="25" y="232" xml:space="preserve" class="x">----+%&amp;a-  ~  -~:-a@@@@@@@&amp;+  :~~-~-:--~=~</text>
-<text x="25" y="248" xml:space="preserve" class="x">     =~-~- ~-::=~=M@@@@@@@@@*-~         : </text>
-<text x="25" y="264" xml:space="preserve" class="x">    :   --:-~ :-=~#@@@@@&amp;@@@@W   :-       </text>
-<text x="25" y="280" xml:space="preserve" class="x">         --:~: :+=%@@@@@#@@@@@+   ~:   :  </text>
-<text x="25" y="296" xml:space="preserve" class="x">  :      ~-:-~:-=*@@@@@@@&amp;&amp;@@@%~  --      </text>
-<text x="25" y="312" xml:space="preserve" class="x">:        -: -~ :~W@@@@&amp;@@**%@@@&amp;- - :  -  </text>
-<text x="25" y="328" xml:space="preserve" class="x">        -oa+++=+a#@#@@@&amp;@%&amp;@%%@@M -  : :  </text>
-<text x="25" y="344" xml:space="preserve" class="x">        ~WWMMMM#W&amp;@*@@@%W@@@@%%@@--   :-  </text>
-<text x="25" y="360" xml:space="preserve" class="x">         *MWMM#%#&amp;@@@@@@&amp;@@@@@#&amp;@ -    =  </text>
-<text x="25" y="376" xml:space="preserve" class="x">     :   ~****W%&amp;@@@@&amp;@&amp;@@&amp;@@@@#+ -    ~- </text>
-<text x="25" y="392" xml:space="preserve" class="x">     :   -*MMWW#&amp;%%@@@@&amp;@@&amp;&amp;@%+:  -    ~~-</text>
-<text x="25" y="408" xml:space="preserve" class="x">          o#W###%oa&amp;%%%W&amp;@%#*=    -    - ~</text>
-<text x="25" y="424" xml:space="preserve" class="x">          +#####%o W%##MW%o--=    -    -  </text>
-<text x="25" y="440" xml:space="preserve" class="x">     : --:=W#WWWWa:=#%###Wo -+::::~:  :-  </text>
-<text x="25" y="456" xml:space="preserve" class="x">       ~  =W##WWW~  o%%##WM= +    -    :  </text>
-<text x="25" y="472" xml:space="preserve" class="x">      :-: =W##WWW+~=+W%#WWMo-=---:::::: =~</text>
-<text x="25" y="488" xml:space="preserve" class="x">     :~--:aWWWWWWa~a-=#%#WM*-         :-- </text>
-<text x="25" y="504" xml:space="preserve" class="x">     --:: =##WWWW+ -:-W%#WMM~    :-:::-- :</text>
-<text x="25" y="520" xml:space="preserve" class="x">-:-:--::::-W##WWM+ ---M%##WMa ::::::--:- :</text>
-<text x="25" y="536" xml:space="preserve" class="x">  ::-:::::-M###WWa :--+%##WWM~  :      -  </text>
-<text x="25" y="552" xml:space="preserve" class="x">   --     -M###WMo-----*%WWW#*         ~~ </text>
-<text x="25" y="568" xml:space="preserve" class="x"> :--      -W##WWM*~~---~W#WMM**o-      -= </text>
-<text x="25" y="584" xml:space="preserve" class="x">----------~W##WM*=~~~~~~a##WM*M&amp;o-::::--::</text>
-<text x="25" y="600" xml:space="preserve" class="x">::-------~~M#WWMa=~~~~~~+WWWWW%W+---:::--:</text>
-<text x="25" y="616" xml:space="preserve" class="x">----~~~~-~=aW#WMoa=~=====M%%%Wa+=~--------</text>
-<text x="25" y="632" xml:space="preserve" class="x">~~~~~~=====+*%%#o+++=====a**o+==+=~~~~~~~~</text>
-<text x="25" y="648" xml:space="preserve" class="x">~~==~~~~====+oo+++====~~=++++++=a=~~~~=~~~</text>
-<text x="402" y="123" xml:space="preserve"><tspan class="h">rahul</tspan><tspan class="v">@</tspan><tspan class="h">gupta</tspan></text>
-<text x="402" y="139" xml:space="preserve"><tspan class="d">-----------</tspan></text>
-<text x="402" y="155" xml:space="preserve"><tspan class="k">OS:</tspan><tspan class="d"> ........................ </tspan><tspan class="v">macOS, Windows, Linux, Android, iOS</tspan></text>
-<text x="402" y="171" xml:space="preserve"><tspan class="k">Uptime:</tspan><tspan class="d" id="uptime_dots"> ............................... </tspan><tspan class="v" id="uptime_data">1 year, 7 months, 2 days</tspan></text>
-<text x="402" y="187" xml:space="preserve"><tspan class="k">Host:</tspan><tspan class="d"> ................................. </tspan><tspan class="v">Pune, Maharashtra, India</tspan></text>
-<text x="402" y="203" xml:space="preserve"><tspan class="k">Kernel:</tspan><tspan class="d"> ........................ </tspan><tspan class="v">AI Engineer (Full-Stack + LLMs)</tspan></text>
-<text x="402" y="219" xml:space="preserve"><tspan class="k">IDE:</tspan><tspan class="d"> .................................................... </tspan><tspan class="v">VSCode</tspan></text>
-<text x="402" y="251" xml:space="preserve"><tspan class="k">Languages.Programming:</tspan><tspan class="d"> ..... </tspan><tspan class="v">Python, TypeScript, JavaScript, C++</tspan></text>
-<text x="402" y="267" xml:space="preserve"><tspan class="k">Languages.Computer:</tspan><tspan class="d"> ................. </tspan><tspan class="v">HTML, CSS, SQL, JSON, YAML</tspan></text>
-<text x="402" y="283" xml:space="preserve"><tspan class="k">Languages.Real:</tspan><tspan class="d"> ................................. </tspan><tspan class="v">English, Hindi</tspan></text>
-<text x="402" y="315" xml:space="preserve"><tspan class="k">Stack.Frontend:</tspan><tspan class="d"> ............. </tspan><tspan class="v">React, Next.js, Tailwind, Three.js</tspan></text>
-<text x="402" y="331" xml:space="preserve"><tspan class="k">Stack.Backend:</tspan><tspan class="d"> ........... </tspan><tspan class="v">Node.js, Express, MongoDB, PostgreSQL</tspan></text>
-<text x="402" y="347" xml:space="preserve"><tspan class="k">Stack.AI:</tspan><tspan class="d"> ..................... </tspan><tspan class="v">LLM Orchestration, NumPy, Pandas</tspan></text>
-<text x="402" y="363" xml:space="preserve"><tspan class="k">Hobbies.Software:</tspan><tspan class="d"> ............ </tspan><tspan class="v">Open Source, Game Dev, Hackathons</tspan></text>
-<text x="402" y="395" xml:space="preserve"><tspan class="d">- </tspan><tspan class="s">Contact </tspan><tspan class="d">------------------------------------------------------</tspan></text>
-<text x="402" y="411" xml:space="preserve"><tspan class="k">Email.Personal:</tspan><tspan class="d"> ..................... </tspan><tspan class="v">rahulgupta193246@gmail.com</tspan></text>
-<text x="402" y="427" xml:space="preserve"><tspan class="k">LinkedIn:</tspan><tspan class="d"> ................................ </tspan><tspan class="v">rahul-gupta-992259326</tspan></text>
-<text x="402" y="443" xml:space="preserve"><tspan class="k">GitHub:</tspan><tspan class="d"> ......................................... </tspan><tspan class="v">Rahulgupta7777</tspan></text>
-<text x="402" y="459" xml:space="preserve"><tspan class="k">Codeforces:</tspan><tspan class="d"> ........................................... </tspan><tspan class="v">Danav777</tspan></text>
-<text x="402" y="475" xml:space="preserve"><tspan class="k">ORCID:</tspan><tspan class="d"> ..................................... </tspan><tspan class="v">0009-0002-4755-8063</tspan></text>
-<text x="402" y="507" xml:space="preserve"><tspan class="d">- </tspan><tspan class="s">GitHub Stats </tspan><tspan class="d">-------------------------------------------------</tspan></text>
-<text x="402" y="523" xml:space="preserve"><tspan class="k">Repos:</tspan><tspan class="d" id="repo_dots"> ................ </tspan><tspan class="n" id="repo_data">72 (Original: 38)</tspan><tspan class="d"> | </tspan><tspan class="k">Stars:</tspan><tspan class="d" id="star_dots"> ........... </tspan><tspan class="n" id="star_data">5</tspan></text>
-<text x="402" y="539" xml:space="preserve"><tspan class="k">Commits:</tspan><tspan class="d" id="commit_dots"> .......................... </tspan><tspan class="n" id="commit_data">1,044</tspan><tspan class="d"> | </tspan><tspan class="k">Followers:</tspan><tspan class="d" id="follower_dots"> ...... </tspan><tspan class="n" id="follower_data">18</tspan></text>
-<text x="402" y="555" xml:space="preserve"><tspan class="k">Lines of Code on GitHub:</tspan><tspan class="d"> </tspan><tspan class="n" id="loc_data">3,704,422</tspan><tspan class="d"> ( </tspan><tspan class="a" id="loc_add">3,745,073++</tspan><tspan class="d">, </tspan><tspan class="e" id="loc_del">40,651--</tspan><tspan class="d"> )</tspan></text>
+<rect x="0.5" y="0.5" width="1024" height="835" rx="6" fill="#ffffff" stroke="#d0d7de"/>
+<text x="25" y="36.0" xml:space="preserve" class="x">;^""""""""",,,,,,,,,,,,,,,:::::::::::l&gt;;:X0CC0Xliii&gt;&lt;&lt;~~~~~rOLLLj_C&gt;~~~~~~~~++++|||||\\\\\\\|||_++++++++~~~|</text>
+<text x="25" y="44.5" xml:space="preserve" class="x">,``````^^""^^^^``````^^^^^"""""","",,,,:,rQCC0Xliii&gt;&gt;&lt;&lt;&lt;&lt;&lt;&gt;x0LLCtiC&gt;&gt;&gt;&gt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;~~~+++++_(((++++~~&lt;&lt;&gt;&gt;&gt;&gt;&gt;&gt;&lt;&lt;&lt;+</text>
+<text x="25" y="53.0" xml:space="preserve" class="x">,```^""",,:,,"^^``````^^^^""",,,,,,,,::;,fQLCOXliiii&gt;&gt;&gt;&gt;&gt;&gt;&gt;nOQQC\iz+&gt;&gt;&gt;&lt;&lt;&lt;&lt;&lt;&lt;~~~~~~~~+++~~~&lt;~~&lt;&lt;&lt;&lt;&gt;&gt;iiiii&gt;&lt;_</text>
+<text x="25" y="61.5" xml:space="preserve" class="x">,'````^^",,""^^```````````^^"""",,,,,,,:,/0LLOc;!l!!!!!!!!ium0OC+!j\!i&gt;&gt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;~~~~~~~&lt;&lt;~&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&gt;i&gt;ii&gt;&lt;&gt;+</text>
+<text x="25" y="70.0" xml:space="preserve" class="x">,'`````^^^"^^```````````````^^""""""",,,"(0LLOv,IIIlllIlllivm0OY&gt;l&gt;&gt;!!ii&gt;&gt;&gt;&lt;&lt;&lt;&lt;~~~~~~&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&gt;&lt;&gt;&gt;&gt;&gt;iii&gt;&lt;&lt;(</text>
+<text x="25" y="78.5" xml:space="preserve" class="x">"''````````^^```''''''''``````^^^""^""",^(QQQmu":::;;:;;IIlcOQOzilll!i&gt;i&gt;&gt;&gt;&lt;&lt;&lt;&lt;~~&lt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&lt;&gt;&gt;iii!i&gt;i&gt;&lt;&lt;&lt;(</text>
+<text x="25" y="87.0" xml:space="preserve" class="x">"..''```````''''''..''''''''`````^``^"""^+LQQmYi&lt;&gt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;&gt;+z0LOull!!iiii&gt;&gt;&gt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&gt;&gt;&gt;iiii&gt;&lt;&lt;&lt;&lt;&lt;~&gt;iii&gt;~&lt;~~&lt;&gt;+</text>
+<text x="25" y="95.5" xml:space="preserve" class="x">^.......'.'..............'.'''''`````^""^~CLQ0LCJCCLLLLJJJCQ0LOxIl!!iiiii&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;iiii&gt;&gt;&lt;~~~~~~&lt;&lt;&lt;~&lt;&lt;&lt;&lt;&lt;&gt;&gt;|</text>
+<text x="25" y="104.0" xml:space="preserve" class="x">^..............................'''````^^`&lt;JLLLwdppqqpddppddO00mrIl!!!iiiiiiii!!!!iiiiii&gt;&gt;&lt;~&lt;~~~~&lt;&gt;&gt;&gt;&lt;~&lt;&lt;&gt;&gt;&lt;|</text>
+<text x="25" y="112.5" xml:space="preserve" class="x">^ ..... ......................''```^```^`&gt;ULL00CCJJCQQQ0ZmwOLLOjIl!!!!l!!l!!!!l!!&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&lt;&lt;~~&lt;&lt;&lt;&lt;&gt;iii&gt;&gt;&gt;&gt;i~</text>
+<text x="25" y="121.0" xml:space="preserve" class="x">^    ..    ......    ....'``^^^"""""""",^&lt;JLLmc";::;IIIlll+LZQOtli!llllllIIl!!!!i&gt;&lt;&gt;&lt;&lt;&lt;&lt;&gt;&gt;&lt;&lt;~&gt;i&gt;&lt;&lt;&lt;!!ii!ii!~</text>
+<text x="25" y="129.5" xml:space="preserve" class="x">^                 ...'`^"",::::::::::::;:+CLCOX:IIII;IIIlI_QOQZ/!&lt;&gt;&gt;i!!ii!!!&gt;&gt;ii&gt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;i&gt;&gt;&lt;&gt;i&gt;&gt;&gt;ilIIl!!!ii+</text>
+<text x="25" y="138.0" xml:space="preserve" class="x">^       ...''``^",::;;;Ill!!!!!!!!!!!!!!l\JLJ0Y;lllllll!!l/LLLOYl&lt;&gt;&gt;&gt;&gt;&gt;&lt;&lt;&lt;&gt;i!!!!&gt;&gt;&gt;&gt;i&gt;&gt;&gt;&gt;ii&gt;&gt;&gt;illlIIlll!!&gt;&lt;+</text>
+<text x="25" y="146.5" xml:space="preserve" class="x">^  ..'^",::;;Ill!iii&gt;&gt;&gt;&gt;&gt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;ifUCULti&lt;&gt;&gt;&gt;&gt;&gt;&lt;&gt;&gt;!jLLLQvli!!iii&gt;&lt;~~&lt;&gt;i&gt;&gt;&gt;&lt;&lt;&lt;&lt;~~&lt;&gt;!!!!i!!!llIIIIl!ii+</text>
+<text x="25" y="155.0" xml:space="preserve" class="x">:^",:;IIll!ii&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&lt;&lt;&lt;&lt;~~~~~~~~~&lt;&lt;&lt;~~~~rUCULj&gt;~&lt;&lt;&lt;&lt;&lt;&lt;&gt;&gt;ixLLLQnliiiii&gt;&gt;&lt;~~&lt;&lt;~~~&lt;&lt;&lt;&lt;&lt;&lt;&lt;&gt;i!!iiiiilI;:;Ill!!i~</text>
+<text x="25" y="163.5" xml:space="preserve" class="x">!;Illlll!!i&gt;&lt;&lt;&lt;~~~~~~~~~~~~~~~~~~~~~~++++xUJYCxttt//||_++iuLCCLt:II!i&gt;&gt;i&gt;&gt;&lt;&gt;&lt;&lt;&lt;&lt;&lt;&gt;iii!!l!!!!!!llIIllllll!i!&lt;</text>
+<text x="25" y="172.0" xml:space="preserve" class="x">&gt;ll!ii&gt;&lt;&lt;&lt;~~~~~~~~~~++~~~++++++++++++++++jJCJCJYJJCULCJUXXYLQQL|:IIl!!!ll!iii&gt;&gt;&gt;&lt;&gt;&lt;&lt;&gt;&gt;iii!!!i!!!iiiiiil!!ii~</text>
+<text x="25" y="180.5" xml:space="preserve" class="x">&lt;!!i&gt;&lt;&lt;&lt;&lt;~~&lt;&lt;~~~~~~~&lt;&lt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&gt;&gt;\YUULwqwpppddbbddp000L|IllllIIlll!ii&gt;&lt;&lt;&lt;&gt;&gt;&gt;i!llll!ii!!!iiii!!!!iii~</text>
+<text x="25" y="189.0" xml:space="preserve" class="x">~i&gt;&gt;&lt;&lt;&lt;&lt;&lt;&lt;&gt;ii!iii!!!!iiiiiii!!!!!!iiiiii!_zUJ0YrrxxxnunvvuJOQQC+Ill!!!!i!!!i&gt;&gt;&gt;i!ll!!!!!!!!i!ll!!!llii&gt;&gt;&gt;il&gt;</text>
+<text x="25" y="197.5" xml:space="preserve" class="x">~i&gt;ii&gt;&gt;ii!lllIIIIIll!!iii!!lllll!!l!!!!!!+zJCOU,::::,,,",`nm0QY&lt;I!i!!llIl!llllIll!&gt;&lt;&lt;&lt;~&lt;&gt;iiii!lIIl!iiii!l!I&gt;</text>
+<text x="25" y="206.0" xml:space="preserve" class="x">~i&gt;iii!llllIIII;;;IIIIllllll!!!!iiii!!!!!+cUCO/!ii!llllII:cmQLX~!iii!!l!iii&gt;&gt;iiii&gt;&lt;&lt;~~~&lt;&gt;&gt;&gt;&gt;!lIlliii!ll!i&gt;&gt;+</text>
+<text x="25" y="214.5" xml:space="preserve" class="x">+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&gt;i!l!i!!!!!!!lll!iiiii&gt;&gt;&gt;&gt;iiii(zJC0/lii!!lIIII;XZLLc&gt;l!i!i&gt;&gt;iii!i&gt;~~~~&lt;~&lt;&lt;&lt;&lt;&gt;i!llIIIlIIll!&gt;&lt;&lt;&lt;&lt;&gt;~</text>
+<text x="25" y="223.0" xml:space="preserve" class="x">|~++++++++~~~&lt;~&lt;~~&lt;&lt;&gt;&gt;&gt;&gt;&gt;iiiiiiii&gt;&gt;&gt;&gt;&lt;&gt;&gt;i+cUYC/l!!!!!!lllI\QJLu&gt;lll!iiii&gt;&gt;&gt;iiii&gt;ii&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;!l!!i!lIlli&gt;&gt;&gt;&gt;&gt;&gt;+</text>
+<text x="25" y="231.5" xml:space="preserve" class="x">\~+++++++++++++++_+++~~~~&lt;&lt;&lt;&gt;&gt;iiiii&gt;&gt;ii&gt;&gt;+vUUQt!i!iiiiiii!fCUCn&gt;ii!!i!!ii!!i!ll!lli&gt;~~+(++++_+~~&lt;&lt;&gt;&gt;&gt;&gt;&gt;&lt;~+~/</text>
+<text x="25" y="240.0" xml:space="preserve" class="x">\~++++++++++++++++++++~~~~~~&lt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;ii&gt;&gt;+vUJQfi&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;rLUCr&gt;&gt;&gt;ii&gt;&gt;iiiii&gt;&gt;&gt;&lt;&lt;&lt;&gt;&gt;&lt;~~~&lt;&lt;~++++_+_+++~++++(_t</text>
+<text x="25" y="248.5" xml:space="preserve" class="x">/++++_+__++++++++~~~~~~~&lt;&gt;&gt;&gt;&gt;&gt;&lt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;~vJJQfi&lt;&gt;&gt;&lt;&gt;&gt;&lt;&lt;&lt;&lt;nLUCj&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;~~~~++~~~~++++++~++(|((||||_+_(++(|(t</text>
+<text x="25" y="257.0" xml:space="preserve" class="x">/+++__++++++++~~~~~&lt;&lt;&lt;&lt;&lt;&gt;!l!iiiiiiiii&gt;&gt;&gt;i&lt;c0LZti&gt;&gt;&gt;&gt;&gt;&gt;&lt;&lt;&lt;~uCULj~+_+++~~~~~~~~~~~~++++__|||||||||(__((+++_(_t</text>
+<text x="25" y="265.5" xml:space="preserve" class="x">\++++_++++++++++~~~&lt;&lt;&gt;&gt;&gt;i!!iiiiiiiiiiiiii&lt;uQUQt!&gt;i&gt;&gt;&gt;&gt;&gt;&lt;&lt;~uCUJf&lt;++~~~&lt;~&lt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;&gt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;~~++___((|(((_+++\</text>
+<text x="25" y="274.0" xml:space="preserve" class="x">\~++++++++++++++++++~~&lt;&lt;&gt;&gt;&gt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&gt;~nCULr&gt;&gt;&lt;&lt;&lt;&lt;&gt;&lt;&lt;&lt;(cCJLUi&lt;&gt;&gt;&gt;&lt;&gt;&lt;&lt;&gt;&lt;&lt;&lt;~&lt;&lt;&lt;~~&lt;&lt;&lt;&lt;&gt;&gt;&gt;&lt;~~~~~~~~++~~~~~~~\</text>
+<text x="25" y="282.5" xml:space="preserve" class="x">r+~~+++++++++++++++~~~~~~&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;~nJYCu~&lt;&gt;&lt;&gt;&gt;&gt;&gt;&lt;&gt;jXJJLz&gt;~&lt;&lt;&lt;&lt;&lt;&lt;&lt;&gt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;~~~~~~~~&lt;~~&lt;&lt;&lt;&lt;&lt;~~~~~~~~+/u</text>
+<text x="25" y="291.0" xml:space="preserve" class="x">/j\+++++++++++++++++++~~~~~~~~~~~~~&lt;&lt;&lt;&lt;&lt;&lt;~xUJLv+&gt;&lt;&gt;&gt;&gt;&gt;&gt;&lt;&gt;UJUJCz&gt;~&lt;&lt;&lt;&lt;&lt;&lt;&lt;&gt;&lt;&lt;&lt;&lt;&lt;~&lt;&lt;~~~++_++++~++++++__+++_fx/t</text>
+<text x="25" y="299.5" xml:space="preserve" class="x">fftr\_~~~~~~~++~~~+~~~~~~~~~~~~~~~~~~~~~~~uQCLcf&lt;&lt;&lt;&lt;&lt;&lt;&lt;~&gt;QUJCCv&lt;~&lt;&lt;&lt;&lt;&gt;&lt;&gt;&lt;&lt;&lt;&lt;~~++++++++_((||(__(||||(|tffjf|j</text>
+<text x="25" y="308.0" xml:space="preserve" class="x">ftff/xf|+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+uLJLzn&gt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&gt;fUCLCn&gt;~&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;~~~~~++++++++_++++_(||||\frj/(\j/t</text>
+<text x="25" y="316.5" xml:space="preserve" class="x">vnrftf/\j\+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;~~&lt;~~~~~~~~~~~~~~~nLCCzY&gt;~&lt;&lt;~~~~+xUCLCn~~~~~&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;~~~+++++++++++++|tfr/(\fxru/f</text>
+<text x="25" y="325.0" xml:space="preserve" class="x">QXrxrtxf\t/_~&gt;i&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;~~~~~&lt;&lt;&lt;~xCUJcO&gt;&lt;&lt;&lt;&lt;&lt;~&lt;tnXUJYj&lt;~~&lt;&lt;&lt;&lt;&lt;&lt;&gt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;~~~~~++++~~+\jxrttr/frjj\cz</text>
+<text x="25" y="333.5" xml:space="preserve" class="x">LxfLzx/j/\_~_/|&gt;!iii&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&lt;&lt;&gt;&lt;&lt;&lt;rYzYxpi&lt;&lt;&lt;&lt;&lt;~&gt;crvzzcf&gt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;~~~~~~~~++++++_\jxtftffxrnXCUrZu</text>
+<text x="25" y="342.0" xml:space="preserve" class="x">rrjXXnvrcjxf/t/cf+ii&gt;&gt;ii&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&lt;&gt;&gt;&lt;&lt;&lt;~rzvzf/&gt;&gt;&lt;&lt;&lt;&lt;~&gt;Qfnvvvt&gt;&lt;&lt;&lt;&lt;~&lt;&lt;&lt;~~&lt;~~~~~++++_++_/jjrrttrjrXJUYfuuj|&lt;</text>
+<text x="25" y="350.5" xml:space="preserve" class="x">xCCQLunwvvcYvnrfftf+iii&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;~rcvz//~&gt;&gt;&gt;&gt;&gt;&gt;i/\nuuvf&lt;~&lt;&lt;~~&lt;~~~~~~~~~~~~+++_\j\/tffjX0UfLZOtu/n&gt;"^</text>
+<text x="25" y="359.0" xml:space="preserve" class="x">\JOOU/XOXXtXjJYcuxxnfj~&gt;&gt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;+xcvzJ\xxxuvncrtquuvut&lt;~&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;~&lt;&lt;~~~~~~~|/tttxcxz0rvOQmxcc0jc/x~!</text>
+<text x="25" y="367.5" xml:space="preserve" class="x">XJLUvXuUxYf/zjnfcznnnx~&gt;&gt;&gt;&gt;&lt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&lt;&lt;&lt;&lt;&gt;|ncucXhpn\frtfrMzuuuvt&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;~~&lt;~~~~~+jv/juYrLzrQxUcXLfJOxrxn/&lt;i</text>
+<text x="25" y="376.0" xml:space="preserve" class="x">Cjtujn|&gt;|&gt;^^`,/~Utc!ii&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;~&lt;tnnxufxr/ccuXvxzrjxxur&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;~&lt;&lt;&lt;&lt;&lt;&lt;&lt;~~+~UntjcjYc|vjnY/Xvtnf;. ^</text>
+<text x="25" y="384.5" xml:space="preserve" class="x">\//tcxf!\+I:.,~~vfri&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&lt;&lt;&gt;&gt;&lt;&lt;&lt;&gt;iifxrrxfnzunxxnucXftrjrx&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&gt;vwY&lt;i~vx|~:!|/zr(;^'^`,</text>
+<text x="25" y="393.0" xml:space="preserve" class="x">JUvx\rII!iI"";&lt;tuz~!&gt;&gt;ii&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&lt;&lt;&lt;&gt;&gt;+vYr/njxvuuznnvvvvzzxfjfrv&gt;~&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&gt;ii/fi&lt;&gt;~_|I:nUvfftxzUtnv</text>
+<text x="25" y="401.5" xml:space="preserve" class="x">UfUt&lt;i&lt;&lt;~~&gt;:":l+t\ri::ilIi&gt;&gt;&lt;&lt;&gt;&gt;&gt;&gt;icOh&amp;$@8omvnzzYzYUUYzXzvnXXJL&gt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&gt;i!iil!I'^,^'"&gt;&gt;I,,i(LcLOUQZdwZ</text>
+<text x="25" y="410.0" xml:space="preserve" class="x">XfCrurwqOLLCcxQXYUXL_:+;,~!lIl&gt;~||uh$@B%%B@$qxcuxxxxxnxnvxrrrxfLxjt|+~&lt;&lt;&gt;&gt;iii&gt;"^!I"&lt;|(|jcc\CCcux/(tUL0r~nwvn</text>
+<text x="25" y="418.5" xml:space="preserve" class="x">jv~f+0whpdw0mLLuunwpbUffnYvu+iU0wmj$%BBBBB%B%L|\\+++(|ttr/ucuUYnYUQOOCCLXr~:+&gt;,.li&gt;~+tzCxOmOOOdJzvcuuXn|njZ0</text>
+<text x="25" y="427.0" xml:space="preserve" class="x">LcYn+0QbdwZJYcCLcjvXrnXx/qdmJxJuvuzB%B@@@BBB%Q+&gt;~!&lt;&gt;t&lt;\+(_~t/fjjf\ujtntuUZOOmbw/Qd/QhuZLCQ0wbdMYxUt+|uc+XQQO</text>
+<text x="25" y="435.5" xml:space="preserve" class="x">mZZ0JqfrrXzCvjnnx0mkmf\zY&gt;Y\CuOzvuQB$@@$@@*k$J!!I&gt;iIr~&gt;|!+/t|+_+\tucxn+\/+~fcZUrmrJndfCrfXJUcX0UCtnuzjji\mnw</text>
+<text x="25" y="444.0" xml:space="preserve" class="x">rxtnrtnfcJcuLJLvfvYi&lt;j&gt;/\xCXJXj\t+~YJ&amp;WWM*hZf&gt;I;ItlIxn&lt;jY~+nr&lt;jutrfjxYuxzUnt\0&gt;/x|JmXqumjULz//QzxzdrtnuYtxpU</text>
+<text x="25" y="452.5" xml:space="preserve" class="x">/xuvfLJx/r\~!&lt;&lt;&lt;&lt;tCjzf//Czrt\tr\_|+juWWWW#om/(IIt&gt;!iuYfjXu!~|t|\jt~&lt;tut/fxucX\ULz~xU&gt;+xcuUQo0mxujcOYcCcYfrtf</text>
+<text x="25" y="461.0" xml:space="preserve" class="x">Oz\+~&gt;&gt;~\&gt;&gt;&lt;\fnUYtt\JXrj/+|rcj|\||rYwQmOLJvxznr(XvrtYOx\+zr&gt;+tYu+~f|&gt;~|uvx|/u_tuXJOCut~&gt;&lt;&gt;&gt;Xx_/uXmwUhkk0fUYc</text>
+<text x="25" y="469.5" xml:space="preserve" class="x">/~~~&gt;&lt;~(f/t/fUunxrf+(ttjxr++~&gt;&gt;r+nj0kfOXfoc/XtvbY8M8jUxuf(Xnjt\rnt|xvr|/+xcuuntuzxjjcQ\0cf_f~i&gt;&gt;&lt;_Q||\rYCLtr</text>
+<text x="25" y="478.0" xml:space="preserve" class="x">\+/u/jffftCUurjr|rf/jxj|&gt;&gt;&lt;&gt;/tYXzLtoO~L/cWn+Cfcdp88$Ytr/(+&gt;U+ll;iUX_|~jz/&gt;!i~xntffrcufjncCOdQvj+&gt;+z&lt;&lt;~~&lt;&lt;(jQ</text>
+<text x="25" y="486.5" xml:space="preserve" class="x">xxxrtn/||fux(&gt;&gt;~/vrft~~txxftCO*Y0zj*Q_0tz*ufQfY#xh%Bdou&gt;~&lt;+|X|+~~+Yz\~+\fvuj~(tnzrt\++\jt+tjcYtfQYQ+~&lt;~~&lt;~&lt;(</text>
+<text x="25" y="495.0" xml:space="preserve" class="x">u|~&gt;i|\+||+&lt;+tj/+&gt;I;I~fnf/xZQwhULYfoLtOvuMcv0xUMtmB8MQwxt\t(nwjtfntxJY///+/jcx\((\nnjjr\\cxzv|~+fcmCOct|&gt;&lt;&gt;(</text>
+<text x="25" y="503.5" xml:space="preserve" class="x">++(+&lt;i!ii&gt;+|\\/t\|_rf(&gt;i&gt;~rphChwL0\op/Ozn#XrOjzktc@W$/rwt&gt;liifz++~~+~xc~&lt;|+&gt;~xXz|l&gt;+/xnv||&lt;\/xnrr+&gt;|YwOmLXuv</text>
+<text x="25" y="512.0" xml:space="preserve" class="x">\&gt;!l!&gt;~~j|+&gt;&gt;i\xj||_~i&lt;~(jxQ#/m*Cprw*/0Ux#CfO/XMYx%&amp;@bJvJt/(~lJY&gt;|/f//jULf/nurxzzCr+~++jxzt~i~+~_j\nvnfxxuLp</text>
+<text x="25" y="520.5" xml:space="preserve" class="x">~!_+/u|i!Il~xuf/~~(&lt;&lt;&lt;+\rf+QbxpbCmJ0WxXOnoOfmncMpOB8%BmqYf&gt;&lt;~~|O(lilllI!tX+\f/+&lt;&gt;|Yr&gt;I&gt;!!&lt;+\r||+++~(tfxt++\r</text>
+<text x="25" y="529.0" xml:space="preserve" class="x">+~(~&gt;ii!&lt;|~+t~&gt;~~+~+(furt+_fYYLZkLmUMCuZuhktZYY/X8B%B@$#8v&lt;+\(+|Z+l~||_\|xdUxrr/\~~jLv!lIl&lt;!!+vzf|~|~~(\rx/t</text>
+<text x="25" y="537.5" xml:space="preserve" class="x">LUruzvUOUXYrjxzvxjnnrvuzUYzf8$$ch0qcphfpYCWxZm0q$@BBBB%@%@Qf~(+\YtCt\jO0p/wfxxmqwLCm0qUUUCCvunrcYnuccuxcuxxX</text>
+<text x="25" y="546.0" xml:space="preserve" class="x">|&lt;|rtrOCtrjjfzmnuYLffw++~~+\xOkLdOZQX&amp;CC0z&amp;OLfj&amp;@@@B@@BB$@$av!vf\cm!_q!li&gt;&lt;~m00(~+0Y+\fjz/ui!ll&gt;m+_x0Ucm~~+\</text>
+<text x="25" y="554.5" xml:space="preserve" class="x">&lt;&gt;|\\&gt;ct!&lt;&gt;&lt;&lt;|JuJf~&lt;jdiIIII&gt;bC&lt;IvWCbnapubuO8U/z@BB$@@@$BB@B$8tfJ+:cC+0llIIl~0+jQz&lt;Uu/t+&lt;/Ojuzj_f0|++++n0x/__</text>
+<text x="25" y="563.0" xml:space="preserve" class="x">rr&gt;l!!z\i&gt;&gt;&gt;inO0cux\fZt||(+Yw|!i|bwwLZ#jOmXtqQC$%@BB@@@$$B@@%Wc&lt;l&lt;&lt;LUZ~~~+&gt;|O&lt;!~Qu0\&gt;~~ifml!\LCcQ/\++ijO(rxc</text>
+<text x="25" y="571.5" xml:space="preserve" class="x">&lt;I!iiiu/!!itnuQ~&gt;&gt;&gt;i&lt;C&gt;!liUcU!IlI\kwpX&amp;znZvhtYC$%@@BB@bL@$@$B8Wf:!Ii/p!ii&lt;i_0&gt;&gt;!!ttni&gt;+iUU!&gt;&gt;&gt;+XtYr\\(YLt(|v</text>
+<text x="25" y="580.0" xml:space="preserve" class="x">/|\+(+uj(nxUj\O|~_~l&lt;Cil(wjlv&gt;&gt;+\QhomCw#UOQQxtp$B$@@%@8*@$@$$%%u&gt;&gt;_+xrx(+++ndl!!l;0CY\+~Ocii!!l(ZcQYu/XU|f+|</text>
+<text x="25" y="588.5" xml:space="preserve" class="x">~!!ll;fQXn~ii(O(tr&gt;I!Y,+w~;!zlII!YbwJdX%OXbQtuB$@$@@BB@@BBB$$%B*pi&gt;!n/m_!lI/q^,::,m!iU\lb~IlIlI\O;!\LYCz&lt;+&gt;~</text>
+<text x="25" y="597.0" xml:space="preserve" class="x">|++~&gt;/O0(~|\&lt;tUzc\|++uvZ&lt;l!&gt;UiIll~kOQ0cWCupUbC$@@$$@&amp;8@*qzk#$@%%8t!&gt;zqnw(\&gt;uZ~&gt;;;Iq&gt;":tcOl!ii!l|ZII;;~CCf&gt;&gt;/</text>
+<text x="25" y="605.5" xml:space="preserve" class="x">/(fXUnYx+~+~i\z~_++&gt;tQrIIlI!Ui;I;/md0Yu&amp;XtZxhZ$$$$$$8%$@Yzob*@B%$h_Inw&gt;QC&lt;ixO~+ii~k~Illv\ri&gt;~~&gt;fL!!iilYJv0j\</text>
+<text x="25" y="614.0" xml:space="preserve" class="x">tcCu\&lt;x\i!!ll+zlIII\Qz;::::;UI,:,vOJUYzzunXUUh$hd$@$$Wo$88$$oh%B%$c;nLllCx:uQ,:::Im!:;,tY|zi;l;/L:l;;,Y\,ifv</text>
+<text x="25" y="622.5" xml:space="preserve" class="x">CUf\\|vxfjrjfvXjf\J//x+&gt;&gt;&lt;~+J(&lt;&lt;+YppmOmwmOkhbM$mn@@@$8Ya$$@B$Wk8B@WrcQi+~bfzw~++~_q(~&lt;&gt;XUlrwx!&gt;YZ&lt;+~~&gt;Ur!i!|</text>
+<text x="25" y="631.0" xml:space="preserve" class="x">+!&gt;&lt;&lt;&gt;rj~++_+tX~|dL!&lt;x&lt;iiii&gt;v~!iljwZqw0mqbadqM$Bh@$$$$od$@@B%$*k$%8tuQ;&gt;l&lt;LqL&gt;+_~_k~~~&lt;uL&lt;&lt;&lt;cOfUL&gt;~+++0u&gt;++/</text>
+<text x="25" y="639.5" xml:space="preserve" class="x">~!iiilt\l!!il+n+\c!i&gt;xiIlIIluiII:\Omqqqmmk#Wo*$$$8&amp;B$BBB$$$@@@$bh$#!nU:IlI(xvliiI&gt;b!II:/Ll&gt;I;xc0c:III:C\;I;i</text>
+<text x="25" y="648.0" xml:space="preserve" class="x">~l!!iljjl!!!!~Ujc!&gt;!&gt;xill!!iv&gt;lll:ULLQ0Q0paM@@$$$BM8@#B@$WW$@B@@#hx,XX:lll;Ot(~~&gt;+wl!&gt;i/L&lt;&lt;!l::zt|iii!Qu&gt;&lt;&lt;|</text>
+<text x="25" y="656.5" xml:space="preserve" class="x">cfff\|xn|txj|c/zt/\fnn~++~+tXj/||(vL0LOmwdb*B@BB$$$$$@@%$MMW8$$hzu+~mO~\\f/pfqxutvtntrrXZvrjj\\Ymd0rrnZv\tru</text>
+<text x="25" y="665.0" xml:space="preserve" class="x">/~+_+&lt;fr&gt;++/OYr+++(++ui!illiX&lt;!l!&gt;Zzkqpdbkkh&amp;dL8W%@B$bW$@W#M$Wv+li&lt;lJzIi!ilwx/Q&lt;+rj|&lt;&gt;~/Q~&lt;&lt;~&gt;!XclnZ\!Q+I&gt;~+</text>
+<text x="25" y="673.5" xml:space="preserve" class="x">+i&gt;&lt;&gt;!tr&gt;&gt;\Oz|x&lt;~~&gt;livilIIIlYi;llfvUhddbbhkbWQx8#ao*#Z*8@8WWUuj~i!!IYuIllllqritrlfj~&lt;!l&gt;L&lt;!i!i;uc;;~XfL&lt;;ll&gt;</text>
+<text x="25" y="682.0" xml:space="preserve" class="x">\i&gt;&gt;&gt;!tr&gt;XQ|i(n+&gt;!ll&lt;c!IllIlY&gt;Il!rizqabkkkkkM0lU%aaa*mpp%qYpjnz+i&gt;i!Jnlii!lp/l(n~\j+~&gt;!!Q+!iiilYu:!!lfO\!i!~</text>
+<text x="25" y="690.5" xml:space="preserve" class="x">/&lt;~~~~frUL+~~\nl;Ill&lt;z!IllI!Y&gt;lir/iULokbbbkd*Yl/hWokkObkdZuUuux&gt;!&lt;&gt;!0vl&gt;!!!L~!!f/r/&gt;~~&lt;!Ut&gt;&gt;i&gt;lYuIll!lzcn&gt;l~</text>
+<text x="25" y="699.0" xml:space="preserve" class="x">f~++|_fYOxxcXzcvjnvYJJnrx\++JfjcmvcXchbbbbdwdcxvxooooahdqpZfcvuczYYctOcvrxc0ccvu0f0fjjf\Uv\\tr/zzr|+_jUttYf~</text>
+<text x="25" y="707.5" xml:space="preserve" class="x">/&gt;&lt;+|YOrr\/rr\n|(_~~|U&gt;lllIIJ&lt;lwv~+vYkkbdppqpXi~~UWaaahdqwmx&lt;cz&lt;&gt;~+iZzi&gt;i!&gt;0~&gt;&gt;&gt;IvO&lt;&gt;i&gt;lXvl&gt;~&lt;&lt;Yu&gt;~&gt;(xC\&lt;~YZ</text>
+<text x="25" y="716.0" xml:space="preserve" class="x">f~(tYj/r///r\\j~&lt;&lt;&lt;&gt;~x!lllIIX&gt;|j~&gt;!uLpkhkdppbY&gt;&gt;~Qb#ahhdwZqntzXtfjf(x/+|\\+f\ucxn(x|tvctxn~~jr_f\+\t|tj\uUzm</text>
+<text x="25" y="724.5" xml:space="preserve" class="x">t+fXz\///tt\+_(+(+|(_+~++~+|t+tjfxfrCkbkbpqwkvfuzuz*oakdwmOCut/unuxf/jftf\cxUYCfrj|UtjuxffjtjjjrfftxxffruUcu</text>
+<text x="25" y="733.0" xml:space="preserve" class="x">uzUvrrrnrfrrrrrxxrrjf//t//\/\Y/jrr\/wdbdpppwpcuJLuv0*ahdwmO0c&gt;~i&gt;&gt;!!&lt;&lt;&lt;ii&gt;/L0t&lt;!i!i+nj&gt;+~rr|+&gt;&lt;~~_fii&gt;&gt;&lt;||t/</text>
+<text x="25" y="741.5" xml:space="preserve" class="x">uzx/frrnjrf\urrft|+~&gt;&gt;&lt;&gt;i!l!&gt;zf+&gt;&gt;ivwkkddppwqr\xf~ir#aahdm0m\ii&gt;&gt;ii~|+~(|+xj+/&lt;&lt;&gt;i&gt;I\j/~&lt;+~~~~~~+tc(&lt;~~&lt;&gt;&lt;_t</text>
+<text x="25" y="750.0" xml:space="preserve" class="x">n|fnr//tff/tf/tt\n/\||(~+&lt;~|cX\|+_~|Lhkkbdqmqx~+|t\fohahkqOmx&gt;~&lt;&lt;&lt;~|f/|\///t|tr\+~&gt;~&gt;vx&lt;+~~~+__|(+++++||/\tj</text>
+<text x="25" y="758.5" xml:space="preserve" class="x">zxuzXcxnzvz/////cnuxrxnrvvjXC/jffrf/zhdbkpqmwu\nxjfzbaahhdwOUYxuvuucuvzcccvnxjucXnnzvfOnYXXzccuccczvuccvXXcz</text>
+<text x="25" y="767.0" xml:space="preserve" class="x">|&gt;~+_+(+|f\|tj\\/\|(|\++\t+zY~++_++&gt;rodbkbdwwvtt((\|JMhakpppZj&gt;&gt;~~~&gt;ii&gt;++&lt;ifC(&gt;&lt;&gt;&gt;&gt;&lt;&gt;&gt;!Qf&gt;&gt;&lt;i&gt;ii&lt;&gt;&gt;&lt;&lt;&gt;i&gt;&gt;&lt;&lt;_</text>
+<text x="25" y="775.5" xml:space="preserve" class="x">+i&lt;~~~&lt;&lt;f+&lt;&gt;i+~(~~+~&lt;i&gt;+_+\/(+&lt;~~~~&lt;jdkkbkdqwXnj|(|+Xh*hkpqpbwv~+((+~&lt;&gt;ii~&gt;ttf&gt;i!!!!!l!l/Oli!!!ll!!iii!!!ii~</text>
+<text x="25" y="784.0" xml:space="preserve" class="x">+&gt;&lt;&lt;i&gt;~~&lt;&gt;&lt;&gt;&lt;~~++\f\&lt;&lt;+++~Uc&gt;&lt;&lt;&lt;&gt;&gt;~&gt;xhkkbbdqmUz|t/|\(vMhqpdmd*t&gt;&gt;&lt;~~~+&lt;&gt;&lt;&lt;+nuU|!llll!i&lt;&lt;&gt;0zi&gt;i&gt;&gt;&gt;i&gt;&gt;&gt;&lt;&lt;i&gt;&gt;i~</text>
+<text x="25" y="792.5" xml:space="preserve" class="x">+&gt;~~&lt;~+~&gt;~~&lt;~+~&gt;~++&lt;ii++~jQ&gt;ii&gt;&gt;&gt;&gt;&lt;&gt;Yadbbdpwmmjrt|\|+xqohmmmwpuUvr&lt;~&gt;i!li&gt;!xYtti&gt;!!ii&lt;~~+i0ji&lt;&gt;&gt;&gt;!ii&gt;ii!ii!&lt;</text>
+<text x="25" y="801.0" xml:space="preserve" class="x">/|/|\f\ttjffrttt/\|(+\/ttU/&lt;~&lt;~~~+~&gt;uadkbppmwLr/rf/\|+tkhhpwZwZboQt~&lt;&lt;iii~/+/f|~&gt;&gt;&gt;i&lt;&gt;i&lt;i!iY(&gt;~+~~&lt;&lt;&lt;&lt;&lt;~&lt;&lt;i~</text>
+<text x="25" y="809.5" xml:space="preserve" class="x">YYXcuxnvrnunuxrjxrxffrtfruruuvcvzcYunhdbkpmOJCunz/t\/tLJkbbdqOLYWMjcuzcvccUCzuznzcvvzYzvcurYzczcxnunvuvzUUzJ</text>
+<text x="25" y="818.0" xml:space="preserve" class="x">vt//\\tjjttjrfj//tt/jrt/tff/fnjtxxuxubdkppqUxtzuuvuncftYkbpqpmw#8QvxjffrjftfUutjrrrrffxjtfxjtft/frrrrrfxxttr</text>
+<text x="505" y="206" xml:space="preserve"><tspan class="h">rahul</tspan><tspan class="v">@</tspan><tspan class="h">gupta</tspan></text>
+<text x="505" y="222" xml:space="preserve"><tspan class="d">-----------</tspan></text>
+<text x="505" y="238" xml:space="preserve"><tspan class="k">OS:</tspan><tspan class="d"> ........................ </tspan><tspan class="v">macOS, Windows, Linux, Android, iOS</tspan></text>
+<text x="505" y="254" xml:space="preserve"><tspan class="k">Uptime:</tspan><tspan class="d" id="uptime_dots"> ............................... </tspan><tspan class="v" id="uptime_data">1 year, 7 months, 3 days</tspan></text>
+<text x="505" y="270" xml:space="preserve"><tspan class="k">Host:</tspan><tspan class="d"> ................................. </tspan><tspan class="v">Pune, Maharashtra, India</tspan></text>
+<text x="505" y="286" xml:space="preserve"><tspan class="k">Kernel:</tspan><tspan class="d"> ........................ </tspan><tspan class="v">AI Engineer (Full-Stack + LLMs)</tspan></text>
+<text x="505" y="302" xml:space="preserve"><tspan class="k">IDE:</tspan><tspan class="d"> .................................................... </tspan><tspan class="v">VSCode</tspan></text>
+<text x="505" y="334" xml:space="preserve"><tspan class="k">Languages.Programming:</tspan><tspan class="d"> ..... </tspan><tspan class="v">Python, TypeScript, JavaScript, C++</tspan></text>
+<text x="505" y="350" xml:space="preserve"><tspan class="k">Languages.Computer:</tspan><tspan class="d"> ................. </tspan><tspan class="v">HTML, CSS, SQL, JSON, YAML</tspan></text>
+<text x="505" y="366" xml:space="preserve"><tspan class="k">Languages.Real:</tspan><tspan class="d"> ................................. </tspan><tspan class="v">English, Hindi</tspan></text>
+<text x="505" y="398" xml:space="preserve"><tspan class="k">Stack.Frontend:</tspan><tspan class="d"> ............. </tspan><tspan class="v">React, Next.js, Tailwind, Three.js</tspan></text>
+<text x="505" y="414" xml:space="preserve"><tspan class="k">Stack.Backend:</tspan><tspan class="d"> ........... </tspan><tspan class="v">Node.js, Express, MongoDB, PostgreSQL</tspan></text>
+<text x="505" y="430" xml:space="preserve"><tspan class="k">Stack.AI:</tspan><tspan class="d"> ..................... </tspan><tspan class="v">LLM Orchestration, NumPy, Pandas</tspan></text>
+<text x="505" y="446" xml:space="preserve"><tspan class="k">Hobbies.Software:</tspan><tspan class="d"> ............ </tspan><tspan class="v">Open Source, Game Dev, Hackathons</tspan></text>
+<text x="505" y="478" xml:space="preserve"><tspan class="d">- </tspan><tspan class="s">Contact </tspan><tspan class="d">------------------------------------------------------</tspan></text>
+<text x="505" y="494" xml:space="preserve"><tspan class="k">Email.Personal:</tspan><tspan class="d"> ..................... </tspan><tspan class="v">rahulgupta193246@gmail.com</tspan></text>
+<text x="505" y="510" xml:space="preserve"><tspan class="k">LinkedIn:</tspan><tspan class="d"> ................................ </tspan><tspan class="v">rahul-gupta-992259326</tspan></text>
+<text x="505" y="526" xml:space="preserve"><tspan class="k">GitHub:</tspan><tspan class="d"> ......................................... </tspan><tspan class="v">Rahulgupta7777</tspan></text>
+<text x="505" y="542" xml:space="preserve"><tspan class="k">Codeforces:</tspan><tspan class="d"> ........................................... </tspan><tspan class="v">Danav777</tspan></text>
+<text x="505" y="558" xml:space="preserve"><tspan class="k">ORCID:</tspan><tspan class="d"> ..................................... </tspan><tspan class="v">0009-0002-4755-8063</tspan></text>
+<text x="505" y="590" xml:space="preserve"><tspan class="d">- </tspan><tspan class="s">GitHub Stats </tspan><tspan class="d">-------------------------------------------------</tspan></text>
+<text x="505" y="606" xml:space="preserve"><tspan class="k">Repos:</tspan><tspan class="d" id="repo_dots"> ................ </tspan><tspan class="n" id="repo_data">72 (Original: 38)</tspan><tspan class="d"> | </tspan><tspan class="k">Stars:</tspan><tspan class="d" id="star_dots"> ........... </tspan><tspan class="n" id="star_data">5</tspan></text>
+<text x="505" y="622" xml:space="preserve"><tspan class="k">Commits:</tspan><tspan class="d" id="commit_dots"> ............................ </tspan><tspan class="n" id="commit_data">909</tspan><tspan class="d"> | </tspan><tspan class="k">Followers:</tspan><tspan class="d" id="follower_dots"> ...... </tspan><tspan class="n" id="follower_data">18</tspan></text>
+<text x="505" y="638" xml:space="preserve"><tspan class="k">Lines of Code on GitHub:</tspan><tspan class="d"> </tspan><tspan class="n" id="loc_data">3,719,384</tspan><tspan class="d"> ( </tspan><tspan class="a" id="loc_add">3,763,729++</tspan><tspan class="d">, </tspan><tspan class="e" id="loc_del">44,345--</tspan><tspan class="d"> )</tspan></text>
 </svg>
